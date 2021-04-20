@@ -1,2 +1,2 @@
 # web-vr-mozila
-https://sites.google.com/view/solar-system-in-webvr/home
+https://sites.google.com/kiit.ac.in/solor-system-webvr/home
